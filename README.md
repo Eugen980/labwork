@@ -15,8 +15,11 @@ git clone https://github.com/Eugen980/labwork.git
 pip install -r requirements.txt
 ```
 
+3. Создайте файл ".env" и поместите в него URL-адрес используемого API и API-ключ
+#### Пример _BASE_URL = http://api.openweathermap.org/data/2.5/  API_KEY = e3291b43cd157648b1b5f59840e8bb39_
 
-3. Запуск
+
+4. Запуск
 
 ```
 python3 app.py
