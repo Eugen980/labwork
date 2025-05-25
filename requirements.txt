@@ -1,0 +1,4 @@
+Python==3.10.12
+PyQt5==5.15.11
+requests==2.32.3
+dotenv==1.0.1
